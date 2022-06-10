@@ -1,5 +1,5 @@
 ---
-page_type: sample
+page_type: Srikesh Maharaj's Samples (free-to-use)
 languages: 
 - kusto
 products: 
